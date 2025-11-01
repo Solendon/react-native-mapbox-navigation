@@ -1,0 +1,9 @@
+<resources>
+    <color name="txtnot">#445e96</color>
+    <color name="red_c51">#f94c51</color>
+    <color name="txt_nature">#323232</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#ffffff</color>
+    <color name="bg_gray">#D9DEE2</color>
+    <color name="maneuver_background">#fe0500</color>
+</resources>

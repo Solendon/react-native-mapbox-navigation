@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">RNTest</string>
+  <string name="delete_icon">Delete drawable icon</string>
+  <string name="red">#FFF000</string>
+</resources>

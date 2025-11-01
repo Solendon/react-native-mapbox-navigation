@@ -1,0 +1,66 @@
+{
+    "remainingSteps": [
+        {
+            "description": "Đi theo phải và đi vào Phố Hàng Dầu.",
+            "distance": 212.991,
+            "expectedTravelTime": 63.936,
+            "maneuverType": null
+        },
+        {
+            "description": "Rẽ phải trên Phố Hàng Thùng.",
+            "distance": 182.659,
+            "expectedTravelTime": 57.873,
+            "maneuverType": null
+        },
+        {
+            "description": "Rẽ trái trên Phố Hàng Tre.",
+            "distance": 331.136,
+            "expectedTravelTime": 125.175,
+            "maneuverType": null
+        },
+        {
+            "description": "Rẽ trái trên Đường Trần Nhật Duật.",
+            "distance": 629.295,
+            "expectedTravelTime": 88.722,
+            "maneuverType": null
+        },
+        {
+            "description": "Đi vào vòng xuyến và đi theo lối ra  thứ hai trên Đường Trần Nhật Duật.",
+            "distance": 10.922,
+            "expectedTravelTime": 1.773,
+            "maneuverType": null
+        },
+        {
+            "description": "Ra khỏi vòng xuyến trên Đường Trần Nhật Duật.",
+            "distance": 1392.212,
+            "expectedTravelTime": 263.667,
+            "maneuverType": null
+        },
+        {
+            "description": "Rẽ trái về phía Đường Yên Phụ.",
+            "distance": 1375.948,
+            "expectedTravelTime": 209.812,
+            "maneuverType": null
+        },
+        {
+            "description": "Đi vào vòng xuyến và đi theo lối ra  thứ hai trên Phố Từ Hoa.",
+            "distance": 42.404,
+            "expectedTravelTime": 10.086,
+            "maneuverType": null
+        },
+        {
+            "description": "Ra khỏi vòng xuyến trên Phố Từ Hoa.",
+            "distance": 82.338,
+            "expectedTravelTime": 26.092,
+            "maneuverType": null
+        },
+        {
+            "description": "Điểm đến ở bên trái.",
+            "distance": 0,
+            "expectedTravelTime": 0,
+            "maneuverType": null
+        }
+    ],
+    "route": "Đường Trần Nhật Duật, Đường Yên Phụ",
+    "target": 75
+}
