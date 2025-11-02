@@ -1,6 +1,6 @@
 
 import React, { useEffect, useImperativeHandle, useRef, useState } from 'react';
-import MapboxNavigation from '../src/MapboxNavigation';
+import MapboxNavigation from '@solendon/react-native-mapbox-navigation';
 import { DeviceEventEmitter, Image, SafeAreaView, StyleSheet, Text, View } from 'react-native';
 enum PuckIcon {
   XE_MAY = 1,
