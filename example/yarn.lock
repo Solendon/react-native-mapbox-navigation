@@ -2476,6 +2476,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@solendon/react-native-mapbox-navigation@file:../../react-native-mapbox-navigation::locator=RNTest%40workspace%3A.":
+  version: 1.0.0
+  resolution: "@solendon/react-native-mapbox-navigation@file:../../react-native-mapbox-navigation#../../react-native-mapbox-navigation::hash=cfe5be&locator=RNTest%40workspace%3A."
+  dependencies:
+    react: 18.3.1
+    ui-rn: ^1.0.19
+  checksum: 9491855f395cf1b105083a55a807ac3df0ddce74365dfbe55ceb694d7ae3349aeb7ce290886a8ad0fde1d29ae7aaef388588a0a100666bf57dc83f53118d52ab
+  languageName: node
+  linkType: hard
+
 "@types/babel__core@npm:^7.1.14":
   version: 7.20.5
   resolution: "@types/babel__core@npm:7.20.5"
@@ -2854,6 +2864,7 @@ __metadata:
     "@react-native/eslint-config": 0.75.3
     "@react-native/metro-config": 0.75.3
     "@react-native/typescript-config": 0.75.3
+    "@solendon/react-native-mapbox-navigation": "file:../../react-native-mapbox-navigation"
     "@types/lodash": ^4.17.20
     "@types/react": ^18.2.6
     "@types/react-test-renderer": ^18.0.0
@@ -2863,7 +2874,6 @@ __metadata:
     prettier: 2.8.8
     react: 18.3.1
     react-native: 0.75.3
-    react-native-mapbox-navigation: "file:react-native-mapbox-navigation"
     react-test-renderer: 18.3.1
     typescript: 5.0.4
     ui-rn: ^1.0.19
@@ -3346,11 +3356,11 @@ __metadata:
   linkType: hard
 
 "baseline-browser-mapping@npm:^2.8.19":
-  version: 2.8.22
-  resolution: "baseline-browser-mapping@npm:2.8.22"
+  version: 2.8.23
+  resolution: "baseline-browser-mapping@npm:2.8.23"
   bin:
     baseline-browser-mapping: dist/cli.js
-  checksum: 569e11f57ebed0430011a5a4bcd6343d3e2df787de6a794fff15e9a849f6e1a4e76a1e502c79487e837c026c9bc51ed8e0991b01e19598a9edbeb1a4d7bb30aa
+  checksum: 9417720d14a4ed9f646562b65263356f46ff0b9e024f5c9756da2574e57328cf4bcf649faf951538169a203817496a94b380b1efba134019aa4d2f16bc0fcac5
   languageName: node
   linkType: hard
 
@@ -3540,9 +3550,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.30001751":
-  version: 1.0.30001752
-  resolution: "caniuse-lite@npm:1.0.30001752"
-  checksum: c532c2230d3603d37f6e3c811bb99fb0ecd79d76b62da188d0c0100b1808aa15fa478532e35c8474e4a943fcf987a5601d6288adca0151232e596ae34bef8814
+  version: 1.0.30001753
+  resolution: "caniuse-lite@npm:1.0.30001753"
+  checksum: d38b17895a99bf1ba9f1a8076233e3d4a606cd0121ccdb381ea94c651aaea0e1587ba3922b11dde4eb153b6741ac3e129fc670df0a7251987ed8619f09059b8a
   languageName: node
   linkType: hard
 
@@ -7964,13 +7974,6 @@ __metadata:
     react: "*"
     react-native: "*"
   checksum: f980d324e551bbc475c6406bdc5250a08242020cbe653412fa169bbdf51e28a502e225de105b4d696d6a1a1b733d44782469020f4936d8b3ce0e2c78e51cf58f
-  languageName: node
-  linkType: hard
-
-"react-native-mapbox-navigation@file:react-native-mapbox-navigation::locator=RNTest%40workspace%3A.":
-  version: 1.0.1
-  resolution: "react-native-mapbox-navigation@file:react-native-mapbox-navigation#react-native-mapbox-navigation::hash=a606c4&locator=RNTest%40workspace%3A."
-  checksum: f95cccfead982490d5f9292dcafb80b2be9703af2e712c92b92b995e210589497125a56106674abd195de9e03bd3dddf09d877ab37d0d5da9680fddc137234d0
   languageName: node
   linkType: hard
 

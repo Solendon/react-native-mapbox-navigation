@@ -1,6 +1,21 @@
 {
-  "compilerOptions": {},
-  "files": ["./global.d.ts"],
-  "include": ["./App.tsx"],
-  "extends": "@react-native/typescript-config/tsconfig.json"
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+     "jsx": "react-native",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "target": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "typeRoots": [
+      "../node_modules/@types",
+      "../../node_modules/@types",
+      "./node_modules/@types"
+    ],
+    "baseUrl": "."
+  },
+  "include": ["../src", "./App.tsx", "./**/*.ts", "./**/*.tsx"],
+  "files": ["./global.d.ts"]
 }
